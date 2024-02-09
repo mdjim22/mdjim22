@@ -17,15 +17,6 @@ I'm a cybersecurity expert, Penetration Tester, and skilled PHP/Python Developer
 <a href="https://www.linkedin.com/in/mdjim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="45" /></a>
 </h3>  
   
-  
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-
 
 </td><td valign="top" width="50%">
 
