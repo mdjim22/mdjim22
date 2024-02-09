@@ -77,5 +77,4 @@ I'm a cybersecurity expert, Penetration Tester, and skilled PHP/Python Developer
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
