@@ -9,8 +9,9 @@
 ### About Me🧑‍💻 ⬇️  
 I am a professional in Cybersecurity and Penetration Testing, focused on system security and identifying vulnerabilities. I have expertise in PHP and Laravel for developing web applications. And still learning Python to take advantage of opportunities in cybersecurity.
 
-As a certified WordPress and Shopify Expert with deep knowledge in SEO, I design and optimize professional websites tailored for high performance, search engine visibility, and business growth. My goal is to deliver secure, user-friendly digital solutions <br>
- let's connect!  
+As a certified WordPress and Shopify Expert with deep knowledge in SEO, I design and optimize professional websites tailored for high performance, search engine visibility, and business growth. My goal is to deliver secure, user-friendly digital solutions <be>
+<br>
+let's connect!  
   
 
 
