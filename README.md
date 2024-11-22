@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Md Jim!  
   
 
-<code>Cyber Security expert | Pentester | PHP | Python Dev | Django | Laravel</code>  
+<code>Cyber security | Pentester | PHP, laravel | Python | WordPress Expert | Shopify Expert | SEO</code>  
   
 
 
