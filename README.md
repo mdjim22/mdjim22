@@ -7,7 +7,9 @@
 
 
 ### About Me🧑‍💻 ⬇️  
-I'm a cybersecurity expert, Penetration Tester, and skilled PHP/Python Developer specializing in Django and Laravel. My focus is on strengthening digital environments, performing thorough penetration tests, and building efficient web solutions. <br>
+I am a professional in Cybersecurity and Penetration Testing, focused on system security and identifying vulnerabilities. I have expertise in PHP and Laravel for developing web applications. And still learning Python to take advantage of opportunities in cybersecurity.
+
+As a certified WordPress and Shopify Expert with deep knowledge in SEO, I design and optimize professional websites tailored for high performance, search engine visibility, and business growth. My goal is to deliver secure, user-friendly digital solutions <br>
  let's connect!  
   
 
